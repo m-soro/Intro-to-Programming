@@ -1,0 +1,45 @@
+.card-container {
+     font-family: Arial, Geneva, sans-serif;
+     color: #3e3e3e;
+     font-size: 15px;
+     border: solid .5px #696969;
+     padding: 12px;
+     background-color: #efefef;
+     box-shadow:5px 6px rgba(0, 0, 0, 0.2);
+     border-radius: 2px;
+     width: 350px;
+    
+}
+
+.introduction {
+    font-style: italic;
+    
+}
+
+.image-container, h3 {
+     text-align: center;
+
+}
+
+.container-content {
+    border: solid .5px #696969;
+    border-radius: 2px;
+    padding: 0 10px;
+    margin-top: 10px;
+    line-height: 1.4em;
+    background-color: #f4eeee;
+    
+}
+
+.stats {
+    font-weight: bold;
+       
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+    
+}
+
+
