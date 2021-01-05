@@ -32,6 +32,8 @@ understanding of Python syntax, give you practice with fundamental
 programming logic, and demonstrate your ability to solve problems
 with code.
 
+![image](adventure-game.gif)
+
 ![image](adventure-game.png)
 
 ## :computer: Intro to JavaScript
@@ -42,6 +44,8 @@ Learn the fundamental concepts of JavaScript. The most popular web programming l
 
 >For this project, you’ll build a single-page web app that allows users
 to draw pixel art on a customizable canvas!
+
+![image](pixel-art-maker.gif)
 
 ![image](pixel-art-maker.png)
 
