@@ -49,7 +49,7 @@ to draw pixel art on a customizable canvas!
 
 ---
 
-##[Certificate of Completion](https://confirm.udacity.com/HGL2D6QN) :tada:
+## [Certificate of Completion](https://confirm.udacity.com/HGL2D6QN)
 
 ![image](certificate.svg)
 
@@ -57,4 +57,5 @@ to draw pixel art on a customizable canvas!
 
 **Acknowledgement**
 
-Thanks to :raised_hands:[Udacity](https://www.udacity.com):raised_hands: for the **[free month access](free-month.jpg)** *I intently studied to finish this course in one month!*
+Thanks to :raised_hands:[Udacity](https://www.udacity.com):raised_hands: for the **[free month access](free-month.jpg)**.
+*I intently studied to finish this course in one month!*
