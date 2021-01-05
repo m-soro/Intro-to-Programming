@@ -19,8 +19,6 @@ The project at the end of this lessons requires creating a trading card with HTM
 animal. You will use your knowledge of HTML to create the structure
 for your trading card. Then you will use CSS styling to design it.
 
-![image](Animal trading cards/animal-trading-cards.png)
-
 
 ## :computer: Intro to Python
 
