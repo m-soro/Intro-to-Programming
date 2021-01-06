@@ -62,5 +62,5 @@ to draw pixel art on a customizable canvas!
 
 **Acknowledgement**
 
-Thanks to :raised_hands:[Udacity](https://www.udacity.com):raised_hands: for the **[free month access](free-month.jpg)**.
-*I intently studied to finish this course in one month!*
+Thanks to :raised_hands:[Udacity](https://www.udacity.com):raised_hands: for the **[free month access](free-month.jpg)** :thumbsup:.
+*I studied intensely :monocle_face: to finish this course in one month!*
