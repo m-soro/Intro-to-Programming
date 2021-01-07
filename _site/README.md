@@ -1,41 +1,66 @@
 # Intro to Programming Nanodegree
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+This course will introduce the student to HTML, CSS, Python and Javascript. Learn about data types, functions, logical statements and conditions.
 
-### [Course Syllabus](#)
+This course will also teach Version control and git.
 
-## Header 1
+The Final project in this course is to manipulate the DOM to create a grid of canvas that allows users to create a digital masterpiece!
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+### [Course Syllabus](Intro-to-programming-syllabus.pdf)
 
-####[PROJECT - 1](#)
+## :computer: Intro to HTML and Intro to CSS
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+Get introduced to HTML and CSS the building blocks of a webpage.
+The project at the end of this lessons requires creating a trading card with HTML and CSS files. Learn the webpage structure and link CSS file to style the webpage.
+
+:dart: [PROJECT - Animal Trading Cards](Animal trading cards/index.html)
+
+>In this project, you’ll be creating a trading card for your favorite
+animal. You will use your knowledge of HTML to create the structure
+for your trading card. Then you will use CSS styling to design it.
 
 
-## Header 2
+## :computer: Intro to Python
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+Learn the fundamentals of Python programming language. Learn functions, logic checks and data structures. Plus, Version Control with git and the Command Line interface.
 
-####[PROJECT - 2](#)
+:dart: [PROJECT - Adventure Game](https://repl.it/@msoro/python-adventure-game#main.py)
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+>Create an interactive game in Python using modules, loops,
+conditionals, and functions. Building this program will affirm your
+understanding of Python syntax, give you practice with fundamental
+programming logic, and demonstrate your ability to solve problems
+with code.
 
-## Header 3
+![image](adventure-game.png)
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+![image](adventure-game.gif)
 
-####[PROJECT - 3](#)
-Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+
+
+## :computer: Intro to JavaScript
+
+Learn the fundamental concepts of JavaScript. The most popular web programming language. Understand the DOM, Nodes and Elements. The course will conclude with a single page web app that allows users to create a digital pixel art masterpiece.
+
+:dart: [PROJECT - Pixel Art Maker](https://m-soro.github.io/Pixel-Art-Maker/)
+
+>For this project, you’ll build a single-page web app that allows users
+to draw pixel art on a customizable canvas!
+
+![image](pixel-art-maker.png)
+
+![image](pixel-art-maker.gif)
+
 
 ---
 
-##[Certificate of Completion](#)
+## [Certificate of Completion](https://confirm.udacity.com/HGL2D6QN)
 
-[insert certificate image here](#)
+![image](certificate.svg)
 
 ---
 
 **Acknowledgement**
 
-Thanks to [Udacity](#) for the free month access *I intently studied to finish this course in one month!*
+Thanks to :raised_hands:[Udacity](https://www.udacity.com):raised_hands: for the **[free month access](free-month.jpg)**.
+*I studied intensely to finish this course in one month!* :thumbsup:
