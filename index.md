@@ -1,7 +1,7 @@
 ---
 image: https://edgy.app/wp-content/uploads/2018/08/programming-FI-970x648.jpg
 ---
-# Intro to Programming Nanodegree
+# Intro to Programming
 
 This course will introduce the student to HTML, CSS, Python and Javascript. Learn about data types, functions, logical statements and conditions.
 
